@@ -7,7 +7,6 @@ Creating a README file format for GitHub based on the provided feature list for 
 ## Search Bar
 - **Plugin**: FiboSearch
 - Description: Enhances user experience by allowing quick product searches via keywords.
-- 
 
 ## Main Menu
 - Description: Central navigation hub providing easy access to key sections and features.
