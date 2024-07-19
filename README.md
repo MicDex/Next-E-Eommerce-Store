@@ -1,4 +1,3 @@
-Creating a README file format for GitHub based on the provided feature list for an e-commerce website:
 
 ---
 
