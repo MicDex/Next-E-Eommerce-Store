@@ -29,6 +29,8 @@
 ## Wishlist
 - **Plugin**: MC Wishlist
 - Description: Feature allowing users to save and organize desired products.
+  ![bandicam 2024-07-20 01-09-34-118](https://github.com/user-attachments/assets/b30cf893-c663-4b27-abc2-8b43f16f61b8)
+
 
 ## Sign Up 15% Off
 - **Plugin**: Discount Rules
