@@ -55,7 +55,8 @@
 ## SUBSCRIBE TO OUR NEWSLETTER
 - **Plugin**: MailChimp
 - Description: Invitation for users to receive updates, promotions, and news via email.
-  ![bandicam 2024-07-20 01-13-49-826](https://github.com/user-attachments/assets/3eeb35f1-95a7-4165-af72-3fb23133f82f)
+  ![bandicam 2024-07-20 01-19-48-056](https://github.com/user-attachments/assets/6bee3e96-1250-4763-85d0-1cc5596ceecd)
+
 
   
 
@@ -150,6 +151,8 @@
 ## Cookies
 - **Plugin**: Complianz
 - Description: Manages cookies to enhance browsing experience and track website activity.
+  ![Capture](https://github.com/user-attachments/assets/1263f4bf-2e49-41d4-aba5-c4d0e91ef691)
+
 
 ## Coupon Code
 - **Plugin**: Discount Rules
@@ -182,6 +185,8 @@
 ## Customer Email Sender
 - **Plugin**: Mailchimp For WooCommerce
 - Description: Automates personalized customer communication for updates and promotions.
+  ![Captre](https://github.com/user-attachments/assets/81af6964-021f-4db3-9eac-304656ca6f11)
+
 
 ## Widgets
 - Description: Customizable tools adding functionality to sidebars and footers.
@@ -189,9 +194,13 @@
 ## Change Text Add to Cart Button
 - **Plugin**: Customizer for WooCommerce
 - Description: Customizes the label of the "Add to Cart" button for better branding alignment.
+  ![Change-add-to-cart-button-jpg-4](https://github.com/user-attachments/assets/14425fd0-cfc5-4ae2-bb2c-d7de55b57a77)
+
 
 ## Favicon
 - Description: Small icon associated with the website for visual identification in browsers.
+  ![bandicam 2024-07-20 02-15-22-695](https://github.com/user-attachments/assets/bcaf6a4c-de58-4c97-8d8a-ebe569e7cc7b)
+
 
 ## Map
 - Description: Visual representation of geographic information showing spatial relationships.
