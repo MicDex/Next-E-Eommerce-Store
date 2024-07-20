@@ -43,13 +43,14 @@
 ## Live Chat
 - **Plugin**: Hupspot
 - Description: Real-time communication tool for instant customer support.
-  ![bandicam 2024-07-20 01-14-33-766](https://github.com/user-attachments/assets/db2760ac-5ff1-4310-ada4-f08934d7ad07)
+  ![bandicam 2024-07-20 01-15-07-718](https://github.com/user-attachments/assets/715ea14a-715c-4dc6-a3ac-c3f0ce6174cf)
 
 
 ## Currency Converter
 - **Plugin**: Woo Currency
 - Description: Tool for quick currency conversions based on current exchange rates.
-  ![bandicam 2024-07-20 01-16-43-805](https://github.com/user-attachments/assets/f00eab0e-c742-4d5a-8759-1b8a9b731246)
+  ![bandicam 2024-07-20 01-17-45-069](https://github.com/user-attachments/assets/39ba0ad9-6532-47c6-ad2d-d3a530e5a4cf)
+
 
 
 ## SUBSCRIBE TO OUR NEWSLETTER
