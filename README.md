@@ -137,10 +137,15 @@
 ## Track Order
 - **Plugin**: WooCommerce
 - Description: Allows customers to monitor the status and location of their orders.
+  ![bandicam 2024-07-20 02-10-30-712](https://github.com/user-attachments/assets/a6c3c7d9-48cc-46d7-a370-9bd161d92d3e)
+  ![bandicam 2024-07-20 02-09-49-924](https://github.com/user-attachments/assets/ecfae8f1-2206-4d3f-a8a3-ea811587ab9b)
+
 
 ## Subscribe Popup
 - **Plugin**: Hustle
 - Description: Popup inviting users to join a mailing list with special offers.
+  ![bandicam 2024-07-20 01-13-49-826](https://github.com/user-attachments/assets/24d166c7-d780-4c23-a7bc-0781817666e0)
+  
 
 ## Cookies
 - **Plugin**: Complianz
@@ -149,18 +154,26 @@
 ## Coupon Code
 - **Plugin**: Discount Rules
 - Description: Offers discounts or promotions at checkout to incentivize purchases.
+  ![bandicam 2024-07-20 02-03-45-073](https://github.com/user-attachments/assets/e29c6043-10ef-4182-9880-d61d81cb9b90)
+
 
 ## Popup Login / Register
 - **Plugin**: Popup Login / Register
 - Description: Allows quick access to user accounts or registration without leaving the page.
+  ![bandicam 2024-07-20 02-12-55-031](https://github.com/user-attachments/assets/cbd343ef-90f2-4eb1-88ed-f8ff51e46dd7)
+
 
 ## Custom Header
 - **Plugin**: ElementsKit
 - Description: Enhances branding and navigation with a visually appealing header.
+  ![bandicam 2024-07-20 00-54-18-281](https://github.com/user-attachments/assets/ad6a8887-63f3-4608-af02-ebb69681ac6f)
+
 
 ## Custom Footer
 - **Plugin**: ElementsKit
 - Description: Provides essential links and information for improved user navigation.
+  ![bandicam 2024-07-20 01-19-48-056](https://github.com/user-attachments/assets/c60dc86d-a018-4e29-be62-ed3329436596)
+
 
 ## E-Commerce Website
 - **Plugin**: WooCommerce
