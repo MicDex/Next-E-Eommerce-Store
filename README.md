@@ -205,6 +205,8 @@
 
 ## Map
 - Description: Visual representation of geographic information showing spatial relationships.
+  ![Cae](https://github.com/user-attachments/assets/855d477a-b350-4b95-8403-ea0d98f77492)
+
 
 ## Note
 - All pages are designed using Elementor.
