@@ -6,10 +6,11 @@
 ## Search Bar
 - **Plugin**: FiboSearch
 - Description: Enhances user experience by allowing quick product searches via keywords.
+- ![bandicam 2024-07-20 00-52-18-576](https://github.com/user-attachments/assets/e4855756-9c90-44bd-8987-8585de18c5bf)
+
 
 ## Main Menu
 - Description: Central navigation hub providing easy access to key sections and features.
-- 
 
 ## Mega Menu
 - **Plugin**: ElementsKit
